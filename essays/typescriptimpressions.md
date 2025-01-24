@@ -13,38 +13,13 @@ labels:
 <img width="100%" class="rounded float-start pe-4" src="https://wallpapers.com/images/hd/cool-code-aesthetic-cqzxsy3jp8y5w6xx.jpg"> 
 
 ## Initial Observations
-As someone with experience with C++ I can confidently say I enjoy Typescript. While I admire how C++ manages memory very intentionally, it can become a bit redundant for simple tasks. Typescript's approach to functions feels logical, and I appreciate being able to return a string or boolean as well as the ability to avoid pointers all together. The code feels intuitive, and I would say it is more user friendly. 
+As someone with experience with C++, I can confidently say Typescript is my preference. C++ can often be demanding from a user perspective as it forces the programmer to think about how memory is being managed. I felt that with Typescript I'm able to focus more on problem-solving and worry less about syntax. 
 
+One thing I immediately noticed was how intuitive Typescript is. Although I have only begun to scratch the surface, there are quality-of-life changes that make programming with Typescript feel less restrictive. In my experience with C++ there is always an additional step in order to perform tasks you might expect of a programming language. For example, when working with functions you have to import the string library just to work with strings. But in Typescript I can just write a function that returns a string, and that's it. There are other small things I appreciate like ASI and type inference that make Typescript a more straightforward experience. 
 
+## My Learning Experience
+I really enjoy the readability and flexibility of Typescript. Not only does the syntax itself feel easy to understand but Typescript is very dynamic with what it allows the user to do. This design choice gives the programmer freedom to explore how the different features interact, and ultimately gives Typescript a creative component. With C++ I always felt restricted, and while there are always multiple ways to a solution, there are a lot of limitations to consider when coding in C++. 
 
-## In the context of programming
+I most noticed this lack of restriction when it came to objects. In Typescript objects can be modified and changed with ease. You can even make an object without having a class for the object, which is unheard of in C++. I feel pushed to experiment and learn the boundaries of Typescript. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+From a software engineering perspective, I would say Typescript is designed with the programmer in mind. It's been enjoyable to learn about and I would recommend it to others. 
