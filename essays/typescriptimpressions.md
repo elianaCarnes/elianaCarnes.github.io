@@ -7,19 +7,15 @@ date: 2025-01-23
 published: true
 labels:
   - Typescript
+  - C++
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="[../img/difficulty/degree_difficulty.jpg](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5d0c2ab246786ca1d5e_86.png)">
+<img width="100%" class="rounded float-start pe-4" src="https://wallpapers.com/images/hd/cool-code-aesthetic-cqzxsy3jp8y5w6xx.jpg"> 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Initial Observations
+As someone with experience with C++ I can confidently say I enjoy Typescript. While I admire how C++ manages memory very intentionally, it can become a bit redundant for simple tasks. Typescript's approach to functions feels logical, and I appreciate being able to return a string or boolean as well as the ability to avoid pointers all together. The code feels intuitive, and I would say it is more user friendly. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
 
 ## In the context of programming
 
