@@ -11,7 +11,7 @@ labels:
 ---
 
 <img width="100%" class="rounded float-start pe-4" src="https://wallpapers.com/images/hd/cool-code-aesthetic-cqzxsy3jp8y5w6xx.jpg"> 
-<hr>
+---
 
 ## Initial Observations
 As someone with experience with C++, I can confidently say Typescript is my preference. C++ can often be demanding from a user perspective as it forces the programmer to think about how memory is being managed. I felt that with Typescript I'm able to focus more on problem-solving and worry less about syntax. 
