@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="600px" class="rounded float-start pe-4" src="[../img/difficulty/degree_difficulty.jpg](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5d0c2ab246786ca1d5e_86.png)">
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
