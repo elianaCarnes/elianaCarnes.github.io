@@ -6,7 +6,7 @@ title: "First Impressions of Typescript"
 date: 2025-01-23
 published: true
 labels:
-  - Engineering
+  - Typescript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
