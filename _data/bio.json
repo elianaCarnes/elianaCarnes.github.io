@@ -10,7 +10,7 @@
     "location": { "address": "1810 University Ave", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "elianaCarnes", "url": "https://github.com/elianaCarnes" },
-      { "network": "linkedin", "username": "elianacarnes", "url": "www.linkedin.com/in/eliana-carnes-4a0131326" },
+      { "network": "linkedin", "username": "elianacarnes", "url": "www.linkedin.com/in/eliana-carnes-4a0131326" }
     ]
   },
   "interests": [
@@ -61,7 +61,7 @@
       "website": "https://www.aquariumofthebay.org/",
       "position": "Education Volunteer",
       "startDate": "2022-10-01",
-      "endDate": "2023-",
+      "endDate": "2023-04-11",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Educate others about sustainability in the San Francisco Bay",
@@ -73,8 +73,9 @@
     {
       "title": "Deans List",
       "date": "2023",
-      "awarder": "City College of San Fransisco",
+      "awarder": "City College of San Francisco",
       "summary": "Awareded to those with a GPA of 3.5 at CCSF."
+    }
   ],
   "references": [
     {
