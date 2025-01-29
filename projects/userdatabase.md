@@ -20,19 +20,18 @@ With this application a user is able to add, delete, find or print records throu
 In this project I gained experience with properly implementing a debug feature through the use of a global variable. 
 
 ### Example Code:
-```
+```html
+   void displayMenu()
+   {
+       if (debugmode)
+       {
+           printf("\n[DEBUG] Called function: displayMenu\n");
+       }
 
-void displayMenu()
-{
-    if (debugmode)
-    {
-        printf("\n[DEBUG] Called function: displayMenu\n");
-    }
-
-    printf("\nPlease choose an option from the menu below:\n");
-    printf("add: Add a new record to the database\n");
-    printf("printall: Print all records in the database\n");
-    printf("find: Find a record by account number\n");
-    printf("delete: Delete a record by account number\n");
-    printf("quit: Exit the program\n");
-}
+       printf("\nPlease choose an option from the menu below:\n");
+       printf("add: Add a new record to the database\n");
+       printf("printall: Print all records in the database\n");
+       printf("find: Find a record by account number\n");
+       printf("delete: Delete a record by account number\n");
+       printf("quit: Exit the program\n");
+   }
