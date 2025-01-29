@@ -21,6 +21,7 @@ In this project I gained experience with properly implementing a debug feature t
 
 ### Example Code:
 ```c
+
 void displayMenu()
 {
     if (debugmode)
