@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/recordss.jpg
+image: img/recordsimage.png
 title: "Preserving records"
 date: 2023
 published: true
