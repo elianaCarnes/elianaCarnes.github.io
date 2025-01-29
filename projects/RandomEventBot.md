@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/dice.jpg
 title: "RandomEvent Bot"
 date: 2024
 published: true
