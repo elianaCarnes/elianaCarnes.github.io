@@ -20,7 +20,7 @@ With this application a user is able to add, delete, find or print records throu
 In this project I gained experience with properly implementing a debug feature through the use of a global variable. 
 
 ### Example Code:
-``
+```
 
 void displayMenu()
 {
