@@ -17,4 +17,4 @@ I primarily contributed an object based system that randomized events, assigning
 
 A unique problem I encoutered with this bot was my friends spamming the command, and we had to make another iteration of RandomEvent Bot that had a cooldown.
 Here is it in use:
-<img class="img-fluid" src="img/events.jpg" width = "400">
+<img class="img-fluid" src="../img/events.jpg" width = "400">
