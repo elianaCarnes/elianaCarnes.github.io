@@ -20,9 +20,7 @@ Small rules contribute to a cleaner and more sustainable program. Like how ESLin
 
 Another aspect of coding standards is the value it carries in a professional environment. When dealing with multiple interacting systems, files and functions things can become unclear as many programmers' unique styles come through in their programming. Without a standardized format, navigating a repository operated by many different people can become a daunting task. A unified coding standard allows for anyone on the team to take a glance at the program and understand it, as it follows the exact same methods they use to write their own program. When things are clear, with proper spacing and a logical organization, it ensures less time is spent on comprehension and more time is spent on problem solving.
 
-<div style="text-align: center;">
-    <img width="200px" class="rounded float-start pe-4" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*bNP7DQt6uNDUQ5VLkrm2sQ.png">
-</div>
+<img width="200px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*bNP7DQt6uNDUQ5VLkrm2sQ.png" style="display: block; margin: auto;">
 
 ## Final Thoughts
 Overall my experience using ESLint has been valuable as I learn to use strategies that enhance my code's readability while also building better habits as a programmer. I have learned to refine my coding style in a way that makes my programs more efficient and clear. Not only does the implementation of coding standards improve your personal experience, it improves collaboration as everyone works on a unified project instead of a joined collective. As I continue to learn, I recognize the importance of coding standards is creating organized and consistent code that can be easily understood. 
