@@ -4,7 +4,7 @@ type: project
 image: img/dice.jpg
 title: "RandomEvent Bot"
 date: 2024
-published: true
+published: false
 labels:
   - Python
   - Discord.py
