@@ -4,34 +4,29 @@ type: project
 image: img/menu.png
 title: "User Database project"
 date: 2024-11-02
-published: false
+published: true
 labels:
   - Unix
-  - C
-summary: "A C-based project that manages user accounts by making updates to a database file with the use of an interactive menu"
+  - C++
+summary: "A C++ project that manages user accounts by making updates to a database file with the use of an interactive menu"
 ---
 
-<img class="img-fluid" src="https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D" width = "300">
+<img class="img-fluid" src="[https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D](https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2021/05/26/database-blogFeaturedImage.png?itok=ZSc9dwRo)" width = "300">
 
-This project is a C-based database I created as a final project in ICS 212, Fall 2024. The application operates on a Unix system and uses file-based storage to keep record of user-inputted information like name, address and account number. 
+This project is a C++ based database that operates from a terminal on a Unix system, I made this project as a final project for ICS 212, Fall 2024. The database was designed to create a system for users to store and edit records by reading the records from a file into a dynamically allocated linked list. This allowed for the user to add, delete, search and print records and maintain a database that updated with the changes made in the terminal by the user. When the application runs it loads the saved records from the file into a singly linked list at startup, and when the user exits the records and any changes are saved back to the same file.  
 
-With this application a user is able to add, delete, find or print records through a menu that directly interacts with the database. The database file is read at the runtime and updated as the user chooses the quit option. It was made within the span of a month using vi text editor.
+The function below shows how the program updates the file with the linked list when the user quits 
+```cpp
+int llist::writefile() {
+    std::ofstream outfile(filename);
+    if (!outfile) return -1;
 
-In this project I gained experience with properly implementing a debug feature through the use of a global variable. 
-
-### Example Code:
-```html
-   void displayMenu()
-   {
-       if (debugmode)
-       {
-           printf("\n[DEBUG] Called function: displayMenu\n");
-       }
-
-       printf("\nPlease choose an option from the menu below:\n");
-       printf("add: Add a new record to the database\n");
-       printf("printall: Print all records in the database\n");
-       printf("find: Find a record by account number\n");
-       printf("delete: Delete a record by account number\n");
-       printf("quit: Exit the program\n");
-   }
+    record* current = start;
+    while (current) {
+        outfile << current->accountNumber << "\n"
+                << current->name << "\n"
+                << current->address << "\n";
+        current = current->next;
+    }
+    return 0;
+}
