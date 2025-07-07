@@ -17,4 +17,5 @@ UI frameworks introduce efficiency to coding and reduce the complexity involved 
 ## My opinion
 It is entirely worth it to learn frameworks, even if it may seem as complex as learning a coding language all together. Frameworks provide a consistency and have a structure that can be especially helpful in a team or group setting. If everyone working together is familar with a framework it is essentially like having a version of the coding language that is tailored to best suit your project. I appreciate frameworks for how they reduce complexity, are optimized to work across various systems and enhance collaborative programming. It opens new horizons for programmers and makes work more efficient. 
 
-<img width="400px" src="img/islandsnow.png">
+Below is an example of a website built using Bootstrap 5
+<img width="800px" src="/img/islandsnow.png">
