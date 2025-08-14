@@ -4,7 +4,7 @@ type: essay
 title: "Journey in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-11
-published: true
+published: false
 labels:
   - Software Engineering
   - Goals
